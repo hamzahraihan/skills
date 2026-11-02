@@ -1,0 +1,17 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "skills",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  "description": "Agent skills for real engineering, as an installable skills collection.",
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Agent skills collection including git-micro-commit.",
+      "category": "engineering",
+      "keywords": ["engineering", "skills", "git", "commit"]
+    }
+  ]
+}
