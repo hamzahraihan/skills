@@ -9,13 +9,13 @@ Skills live in `skills/<category>/<name>/SKILL.md`. Add new skills by creating a
 Use the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add <your-username>/skills
+npx skills add hamzahraihan/skills
 ```
 
 Pick the skills you want, or install all:
 
 ```bash
-npx skills add <your-username>/skills --skill '*'
+npx skills add hamzahraihan/skills --skill '*'
 ```
 
 ## Skill Format

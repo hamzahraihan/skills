@@ -1,8 +1,8 @@
 {
   "name": "skills",
   "owner": {
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills"
+    "name": "hamzahraihan",
+    "url": "https://github.com/hamzahraihan/skills"
   },
   "description": "Agent skills for real engineering, as an installable skills collection.",
   "plugins": [

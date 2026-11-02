@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "Agent skills for real engineering: git-micro-commit. Plug-and-play, not vibe coding.",
   "author": {
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills"
+    "name": "hamzahraihan",
+    "url": "https://github.com/hamzahraihan/skills"
   },
-  "homepage": "https://github.com/mattpocock/skills",
-  "repository": "https://github.com/mattpocock/skills",
-  "license": "MIT",
+  "homepage": "https://github.com/hamzahraihan/skills",
+  "repository": "https://github.com/hamzahraihan/skills",
   "keywords": ["engineering", "skills", "git", "commit"],
   "skills": [
     "./skills/engineering/git-micro-commit"
